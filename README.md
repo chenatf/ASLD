@@ -14,7 +14,7 @@ This program is designed to analysis the sgRNA library distribution from Illumin
 git clone https://github.com/chenatf/ASLD.git
 ```
 
-2. Write the json.
+2. Write the configuration.
 
 Write the configuration json file like `sample.json` in the example.
 
