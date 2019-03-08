@@ -16,8 +16,6 @@ git clone https://github.com/chenatf/ASLD.git
 
 2. Write the configuration.
 
-Write the configuration json file like `sample.json` in the example.
-
 3. Run the python script
 
 ```bash
