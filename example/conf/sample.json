@@ -1,0 +1,24 @@
+{
+    "data": {
+        "md5": "exmaple/data/sample/MD5_sample.txt",
+        "library": "example/data/sample_list.csv",
+        "plasmid": "example/vector/vector1.fa",
+        "read1": "exmaple/data/sample/sample_1.clean.fq.gz",
+        "read2": "exmaple/data/sample/sample_2.clean.fq.gz"
+    },
+    "output": {
+        "prefix": "sample",
+        "workspace": "exmaple/data/sample"
+    },
+    "software": {
+        "fastp": "fastp",
+        "bwa": "bwa",
+        "samtools": "samtools",
+        "bedtools": "bedtools"
+    },
+    "thread": {
+        "fastp": "4",
+        "bwa": "4",
+        "samtools": "4"
+    }
+}
